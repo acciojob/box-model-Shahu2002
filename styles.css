@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.maindiv{
+	width:500px;
+	height:200px;
+	background-color:whitesmoke;
+	border-radius:30px;
+	border:5px solid black;
+	display:flex;
+	justify-content:center;
+	align-item:center;
+}
+.div1,.div2, 
+.div3{
+	width:20%;
+	height:30%;
+	border-radius:50%;
+	margin-top:70px;
+	margin-left:10px;
+}
