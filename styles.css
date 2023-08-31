@@ -7,7 +7,7 @@
 	border:5px solid black;
 	display:flex;
 	justify-content:center;
-	align-item:center;
+	text-align:center;
 }
 .div1,.div2, 
 .div3{
@@ -16,4 +16,13 @@
 	border-radius:50%;
 	margin-top:70px;
 	margin-left:10px;
+}
+.div1{
+	background-color:green;
+}
+.div2{
+	background-color:yellow;
+}
+.div3{
+	background-color:red;
 }
